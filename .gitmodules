@@ -13,12 +13,12 @@
 [submodule "deps/fortuna"]
 	path = deps/fortuna
 	url = https://github.com/waitman/libfortuna.git
-[submodule "deps/miniz"]
-	path = deps/miniz
-	url = https://github.com/tessel/miniz
 [submodule "deps/rapidjson"]
 	path = deps/rapidjson
 	url = https://github.com/miloyip/rapidjson.git
 [submodule "deps/colony-luajit"]
 	path = deps/colony-luajit
 	url = https://github.com/tcr/luajit.git
+[submodule "deps/miniz"]
+	path = deps/miniz
+	url = https://github.com/olivierpichon/miniz.git
